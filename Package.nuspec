@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Trumbowyg</id>
+    <version>1.0.0</version>
+    <authors>jitbit</authors>
+    <owners>jitbit</owners>
+    <licenseUrl>https://github.com/jitbit/TrumbowygNuget</licenseUrl>
+    <projectUrl>https://github.com/jitbit/TrumbowygNuget</projectUrl>
+    <iconUrl>https://github.com/jitbit/TrumbowygNuget</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Trumbowyg lightweight WYSIWYG JavaScript editor</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>WYSIWYG</tags>
+  </metadata>
+</package>
