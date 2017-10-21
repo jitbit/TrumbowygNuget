@@ -1,5 +1,18 @@
 # TrumbowygNuget
 
-Nuget package for Trumbowyg WYSIWYG editor
+Nuget package for Trumbowy - an awesome lightweight JavaScripts WYSIWYG editor.
 
-https://github.com/Alex-D/Trumbowyg
+https://github.com/Alex-D/Trumbowyg - here's the actual editor. This project is just a Nuget package for it.
+
+After installing package with `PM> Install-Package Trumbowyg`, use it like this:
+
+```html
+
+<head>
+  <link rel="stylesheet" href="Scripts/trumbowyg/trumbowyg.min.js">
+</head>
+
+...
+
+<script src="Scripts/trumbowyg/trumbowyg.min.js"></script>
+```
