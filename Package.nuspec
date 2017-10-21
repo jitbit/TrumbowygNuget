@@ -11,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Trumbowyg lightweight WYSIWYG JavaScript editor</description>
     <releaseNotes>Initial release</releaseNotes>
-    <copyright>Copyright 2017</copyright>
+    <copyright>Copyright 2017 Alexandre Demode</copyright>
     <tags>WYSIWYG</tags>
   </metadata>
 </package>
